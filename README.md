@@ -2,6 +2,10 @@
 
 Welcome to the URL Shortener web application, a handy tool developed with React.js and Axios that empowers users to transform long and cumbersome URLs into concise, easy-to-share links.
 
+## Try It Out
+
+You can try the URL Shortener live at [https://url-shortener-v.netlify.app/](https://url-shortener-v.netlify.app/).
+
 ## Get Started
 
 To get started with the URL Shortener, follow these steps:
